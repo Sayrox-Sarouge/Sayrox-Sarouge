@@ -1,6 +1,6 @@
 # 👋 Hey, ich bin Sayrox
 
-Ich bin 16 Jahre alt und interessiere mich leidenschaftlich für Webentwicklung und Scripting für Games wie **FiveM**.  
+Ich bin 16 Jahre alt und interessiere mich leidenschaftlich für Webentwicklung und coding für Discord Apps
 Ich lerne ständig dazu und liebe es, eigene Projekte umzusetzen.
 
 ---
@@ -12,17 +12,17 @@ Ich lerne ständig dazu und liebe es, eigene Projekte umzusetzen.
 - Responsive Design & einfache Benutzeroberflächen
 - Erste Erfahrungen mit JavaScript (bald mehr!)
 
-### 🎮 FiveM (Lua)
-- Grundkenntnisse in **Lua**
-- Kleine Scripte und Anpassungen für RP-Server
+### 🧑‍💻 Discord Apps
+- Grundkenntnisse in **JS und PY**
+- Kleine Projekte für RP-Server
 - Interesse an eigenen Serverprojekten & Systemen
 
 ---
 
 ## 🚧 Woran ich arbeite
 - Eine **Webseite für meinen RP-Server**
-- Eigene **FiveM-Scripte** für kleine Features
-- Lerne gerade **mehr Lua** und später JavaScript
+- Eigenen **Discord Bot** für RP-Server
+- Lerne gerade **Python** und später JavaScript
 
 ---
 
