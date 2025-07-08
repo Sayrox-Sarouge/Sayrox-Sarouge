@@ -1,6 +1,6 @@
 # 👋 Hey, ich bin Sayrox
 
-Ich bin 16 Jahre alt und interessiere mich leidenschaftlich für Webentwicklung und coding für Discord Apps
+Ich bin 16 Jahre alt und interessiere mich leidenschaftlich für coding von Discord Apps
 Ich lerne ständig dazu und liebe es, eigene Projekte umzusetzen.
 
 ---
@@ -13,7 +13,7 @@ Ich lerne ständig dazu und liebe es, eigene Projekte umzusetzen.
 - Erste Erfahrungen mit JavaScript (bald mehr!)
 
 ### 🧑‍💻 Discord Apps
-- Grundkenntnisse in **JS und PY**
+- Grundkenntnisse in **PY**
 - Kleine Projekte für RP-Server
 - Interesse an eigenen Serverprojekten & Systemen
 
